@@ -1,0 +1,5 @@
+review_id,review_text,region,category,rating,date
+REV-000001,Delivery was late and frustrating,Noida,Delivery,1,2026-08-01
+REV-000002,Great product and fast service,Gurgaon,Product Quality,5,2026-08-02
+REV-000003,The price is too high,Delhi,Price,2,2026-08-03
+REV-000004,Customer support was helpful,Mumbai,Support,4,2026-08-04
